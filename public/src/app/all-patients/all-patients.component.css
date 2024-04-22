@@ -1,0 +1,15 @@
+.container {
+    text-align: center;
+    width: 30%;
+}
+
+.list-group {
+    height: 500px;
+    overflow-y: auto;
+    margin-top: 5%;
+}
+
+#home-button {
+    margin-left: 80%;
+    margin-top: 3%;
+}

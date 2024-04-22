@@ -1,0 +1,23 @@
+.container{
+    width: 500px;
+    min-height: 800px;
+    text-align: center;
+    margin-top: 3%;
+   
+}
+
+.form-row {
+    width: 500px;
+    margin-bottom: 7%;
+}
+
+.header {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.comment {
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+
